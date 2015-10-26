@@ -1,0 +1,67 @@
+/* 
+    Document   : css1
+    Created on : May 9, 2012, 11:23:06 AM
+    Author     : compaq
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+
+a
+{
+
+
+
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 24px;
+    
+    color: black;
+    font-weight: 900;
+    
+}
+
+
+a:hover
+{
+
+  font-family: Arial,Helvetica,sans-serif;
+    font-size: 24px;
+    background-color: #660000;
+    color: #ffffff;
+    font-weight: 900;
+    border-right-style: groove;
+    border-left-style: groove;
+    border-bottom-style: groove;
+    border-top-style: groove;
+    border-right-width: 4px;
+    border-left-width: 4px;
+    border-bottom-width: 4px;
+    border-top-width: 4px;
+
+
+}
+
+img
+{
+
+
+
+    border-right-style: ridge;
+    border-left-style: ridge;
+    border-bottom-style: ridge;
+    border-top-style: ridge;
+   
+    border-right-width: 8px;
+    border-left-width: 8px;
+    border-bottom-width: 8px;
+    border-top-width: 8px;
+}
