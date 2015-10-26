@@ -1,4 +1,4 @@
-# Crime-Data-mining-
+# Crime-Data-mining
 Crime pattern detection
 
 PROBLEM STATEMENT
