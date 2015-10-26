@@ -12,6 +12,7 @@ PROBLEM STATEMENT
 -Criminal Pattern Detection and analysis over an area
 
 Other Features :
+
 1.  Background checking of any maid servant: checking for any criminal background
   
 2.   Queries to find maximum crime at a place, in a year, place with max crime, percentage arrest, percentage domestic violence etc.
