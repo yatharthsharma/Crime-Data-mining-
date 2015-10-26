@@ -13,11 +13,17 @@ PROBLEM STATEMENT
 
 Other Features :
 1.  Background checking of any maid servant: checking for any criminal background
+  
 2.   Queries to find maximum crime at a place, in a year, place with max crime, percentage arrest, percentage domestic violence etc.
+
 3.  Time series analysis of crime data over the last 50 years with statistics
+
 4.  Visualizations with graphs
+
 5.  GUI – frontend
+
 6.  Prediction of crime over the next years with plotting of graph using 5- year moving average algorithm
+
 7. Background check of any suspicious person especially for the purpose of maid.
 
 
